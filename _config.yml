@@ -17,8 +17,8 @@ title: Truman ACM
 email: ejg4732@truman.edu
 description: > # this means to ignore newlines until "baseurl:"
   The website for Truman State\'s ACM chapter!
-baseurl:  # the subpath of your site, e.g. /blog
-url: http://sand.truman.edu/acm # the base hostname & protocol for your site
+baseurl: "/acm" # the subpath of your site, e.g. /blog
+url: http://sand.truman.edu # the base hostname & protocol for your site
 
 # Social
 githubUsername:
@@ -34,7 +34,7 @@ fixedNav: 'true' # true or false
 
 permalink: /:year/:month/:title
 markdown: kramdown
-include: [_pages]
-exclude: [_site, CHANGELOG.md, LICENSE, README.md]
+include: [_pages, _site]
+exclude: [CHANGELOG.md, LICENSE, README.md]
 sass:
   style: compressed
