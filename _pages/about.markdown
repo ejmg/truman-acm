@@ -3,6 +3,23 @@ layout: page
 title: About
 permalink: /about/
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+# Hello, World!
+
+This is the website for Truman State University's ACM chapter. Truman State University is the premier public liberal arts college of Missouri with a student population of ~5,500 and a diverse student culture. 
+
+# Please Don't Mind the Dust
+
+The website currently being used is brand new and has some touching up left to be done. Please feel free to report any weird bugs to ejg[four-seven-three-two]@truman.edu
+
+# Executives
+
+President - William Fries
+
+Vice President - Lane Willis
+
+Treasurer - Keaton Leppanen
+
+Secretary - Isaac Speed
+
+Webmaster - [Elias Julian Marko Garcia](http://ageof.info)
