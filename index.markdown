@@ -15,4 +15,4 @@ Executive meetings are on every Tuesday at 6:00PM at the Nerdery (VH2001).
 
 # Truman Hackathon 2017!
 
-We're excited announce that ACM will be hosting the second annual Truman State Hackathon on March 23<sup>rd</sup>-24<sup>th</sup>
+We're excited announce that ACM will be hosting the second annual Truman State Hackathon on March 25<sup>th</sup>-26<sup>th</sup>
