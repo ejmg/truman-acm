@@ -1,7 +1,9 @@
 ---
+
 layout: page
 title: HackTruman 2017
 permalink: /hacktruman/
+
 ---
 
 # HackTruman 2017 Announced for March 25<sup>th</sup>-26<sup>th</sup>!
